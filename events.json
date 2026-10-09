@@ -1,0 +1,34 @@
+[
+  {
+    "name": "freeCodeCamp",
+    "owner": "freeCodeCamp",
+    "description": "A community of millions of people learning to code together.",
+    "language": "JavaScript",
+    "stargazers_count": 405000,
+    "updated_at": "2026-10-08T14:52:00Z"
+  },
+  {
+    "name": "vue",
+    "owner": "vuejs",
+    "description": "The progressive JavaScript framework.",
+    "language": "TypeScript",
+    "stargazers_count": 211000,
+    "updated_at": "2026-10-09T08:11:00Z"
+  },
+  {
+    "name": "react",
+    "owner": "facebook",
+    "description": "The library for web and native user interfaces.",
+    "language": "JavaScript",
+    "stargazers_count": 223000,
+    "updated_at": "2026-10-07T18:32:00Z"
+  },
+  {
+    "name": "tailwindcss",
+    "owner": "tailwindlabs",
+    "description": "A utility-first CSS framework for rapid UI development.",
+    "language": "CSS",
+    "stargazers_count": 89000,
+    "updated_at": "2026-10-05T11:18:00Z"
+  }
+]
